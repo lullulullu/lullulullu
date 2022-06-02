@@ -9,14 +9,7 @@
 I used to be a designer and now I'm studying the backend.<br/>
 <h2><b>Now<b> I am dreaming of a new experience as a <b>`Backend-Developer`<b><br><br><h2/>
 
-<!--
-I'm interested in `Web`, `cloud`, `techs`<br><br>
-Looking forward to your contact!<br><br>
---!>
 
-<b>
-</a>
-</br>
 
 <div align="center">
 <b>💻 Tech Stack 💻<b></br>
@@ -60,12 +53,16 @@ Looking forward to your contact!<br><br>
 </div>
 
 </br>
-<table><tr><td valign="top" width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=gayunpark&show_icons=true&count_private=true&hide_border=true&theme=midnight-purple" align="left" style="width: 100%" />
-</td><td valign="top" width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gayunpark&hide_border=true&layout=compact&theme=midnight-purple&langs_count=10" align="left" style="width: 100%" />
+<table><tr><td valign="top" width="40%">
+<img src="https://github-readme-stats.vercel.app/api?username=gayunpark&show_icons=true&count_private=true&hide_border=true&theme=midnight-purple" align="left" style="width: 80%" />
+</td><td valign="top" width="40%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gayunpark&hide_border=true&layout=compact&theme=midnight-purple&langs_count=10" align="left" style="width:80%" />
 
-</td></tr></table>  
+</td></tr></table> 
+ 
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=CFFF24&height=200&section=footer"/>  
 
 <br/> 
 <!--
