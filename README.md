@@ -6,7 +6,7 @@
 </br>
 ## 👋 Hi there 👋
 ### HI, I'm Gayun Park! 
-I used to be a designer and now I'm studying the backend.<br/>
+I used to be a designer and now I'm studying the backend.<br>
 <h2><b>Now<b> I am dreaming of a new experience as a <b>`Backend-Developer`<b><br><br><h2/>
 
 
